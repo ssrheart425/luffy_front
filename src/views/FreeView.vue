@@ -1,6 +1,7 @@
 <template>
     <Headers></Headers>
     <Footer></Footer>
+    <h1>free</h1>
 </template>
 
 <script setup>
